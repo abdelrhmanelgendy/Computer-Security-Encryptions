@@ -1,0 +1,12 @@
+C:\Users\Abd elrahman\source\repos\Chifers_K\Chifers_K\bin\Debug\Chifers_K.exe.config
+C:\Users\Abd elrahman\source\repos\Chifers_K\Chifers_K\bin\Debug\Chifers_K.exe
+C:\Users\Abd elrahman\source\repos\Chifers_K\Chifers_K\bin\Debug\Chifers_K.pdb
+C:\Users\Abd elrahman\source\repos\Chifers_K\Chifers_K\bin\Debug\Guna.UI.dll
+C:\Users\Abd elrahman\source\repos\Chifers_K\Chifers_K\obj\Debug\Chifers_K.Form1.resources
+C:\Users\Abd elrahman\source\repos\Chifers_K\Chifers_K\obj\Debug\Chifers_K.Properties.Resources.resources
+C:\Users\Abd elrahman\source\repos\Chifers_K\Chifers_K\obj\Debug\Chifers_K.csproj.GenerateResource.cache
+C:\Users\Abd elrahman\source\repos\Chifers_K\Chifers_K\obj\Debug\Chifers_K.exe
+C:\Users\Abd elrahman\source\repos\Chifers_K\Chifers_K\obj\Debug\Chifers_K.pdb
+C:\Users\Abd elrahman\source\repos\Chifers_K\Chifers_K\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Abd elrahman\source\repos\Chifers_K\Chifers_K\obj\Debug\Chifers_K.Form2.resources
+C:\Users\Abd elrahman\source\repos\Chifers_K\Chifers_K\obj\Debug\Chifers_K.csprojResolveAssemblyReference.cache
